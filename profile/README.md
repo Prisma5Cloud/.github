@@ -16,24 +16,15 @@
 
 </p>
 
-<p align="center">
-
-<img src="https://img.shields.io/github/orgs/Prisma5Cloud/repos?style=flat-square&label=Repositories" />
-<img src="https://img.shields.io/github/orgs/Prisma5Cloud/members?style=flat-square&label=Members" />
-
-</p>
-
 - 🔭 Atuamente estamos trabalhando nos produtos:
-**FarmaFácil**
-**Orya**
-**Alcance**
-**FarmaCommerce** 
-**Dashfácil**
+**FarmaFácil** | 
+**Orya** | 
+**Alcance** | 
+**FarmaCommerce** | 
+**Dashfácil** | 
 **FarmaFácil Vet**
 
 - 💬 **Mais de 3 décadas liderando a evolução do setor magistral com inteligência e inovação.**
-
-- 📫 Fale Conosco **devops@prismafive.com.br**
 
 - 👨‍💻 Mais informações sobre nossos produtos estão em nosso site: **[https://prismafive.com.br](https://prismafive.com.br)**
 
